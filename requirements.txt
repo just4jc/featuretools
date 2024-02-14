@@ -13,3 +13,4 @@ psutil>=5.4.8
 click>=7.0.0
 smart_open>=1.7.1
 s3fs>=0.1.5
+aiobotocore>=2.9.1 # not directly required, pinned by Snyk to avoid a vulnerability
